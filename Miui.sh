@@ -42,3 +42,6 @@ adb shell pm uninstall --user 0 com.mi.globalbrowser
 
 echo Fm Radio
 adb shell pm uninstall --user 0 com.miui.fm
+
+echo Google lens
+adb shell pm uninstall --user 0 com.google.ar.lens
