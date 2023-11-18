@@ -45,3 +45,6 @@ adb shell pm uninstall --user 0 com.miui.fm
 
 echo Google lens
 adb shell pm uninstall --user 0 com.google.ar.lens
+
+echo Android Auto
+adb shell pm uninstall --user 0 com.google.android.projection.gearhead
